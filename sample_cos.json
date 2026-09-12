@@ -1,0 +1,22 @@
+[
+  {
+    "id": "CO-104872",
+    "title": "Bracket revision - EU variant",
+    "owner": "m.rahman",
+    "raised": "2026-08-14",
+    "ho_fields_missing": 0,
+    "unapproved_pns": 0,
+    "oms_bom_deltas": 0,
+    "rohs_flag_present": true
+  },
+  {
+    "id": "CO-104873",
+    "title": "Harness routing update",
+    "owner": "",
+    "raised": "2026-08-21",
+    "ho_fields_missing": 3,
+    "unapproved_pns": 2,
+    "oms_bom_deltas": 1,
+    "rohs_flag_present": false
+  }
+]
