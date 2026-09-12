@@ -1,0 +1,7 @@
+co_id,part_number,description,qty_bom,qty_ebom,status
+CO-104872,PN-40218-A,Bracket mount LH,4,4,Released
+CO-104872,PN-40219-A,Bracket mount RH,4,4,Released
+CO-104872,PN-77310-C,Fastener M6x20,16,16,Released
+CO-104873,PN-51002-B,Harness loom front,1,1,Released
+CO-104873,PN-51044-D,Connector 12-way,2,3,In Work
+CO-104873,PN-51045-D,Grommet 18mm,6,6,Obsolete
